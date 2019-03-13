@@ -14,7 +14,9 @@
   },
   "homepage": "https://github.com/nuSapb/koa-redis-code_template#readme",
   "dependencies": {
+    "bluebird": "^3.5.3",
     "koa": "^2.7.0",
+    "mysql2": "^1.6.5",
     "redis": "^2.8.0"
   }
 }
