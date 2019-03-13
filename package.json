@@ -1,0 +1,20 @@
+{
+  "name": "koa-redis-code_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/nuSapb/koa-redis-code_template.git",
+  "author": "Anu S.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuSapb/koa-redis-code_template/issues"
+  },
+  "homepage": "https://github.com/nuSapb/koa-redis-code_template#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "redis": "^2.8.0"
+  }
+}
